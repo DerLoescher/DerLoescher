@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://c.tenor.com/Oj__nQJe8gEAAAAd/explaining-meme.gif" width="250"/>
+  <img src="https://c.tenor.com/Oj__nQJe8gEAAAAd/explaining-meme.gif" width="220"/>
 </div>
 <div id="badges">
   <a href="https://t.me/goosehoward">
