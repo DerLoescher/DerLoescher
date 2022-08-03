@@ -14,7 +14,14 @@
  ---
  
 ### :man_technologist: About Me :
-I am a Frontend Developer from Moscow.
+Фронтенд разработчик из Москвы ⭐
+
+Все свое время посвящаю обучению и самосовершенствованию
+#### Увлечения:
+- ремонт мобильной техники 🧑‍🔧
+- видеоигры 🎮
+- кулинария 👨‍🍳
+- айти и веб 💻
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -25,6 +32,8 @@ I am a Frontend Developer from Moscow.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 <br/>
 <a href="https://github.com/DerLoescher">
