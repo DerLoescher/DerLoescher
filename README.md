@@ -22,6 +22,7 @@
 - видеоигры 🎮
 - кулинария 👨‍🍳
 - айти и веб 💻
+- loseless sound 🎧
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
