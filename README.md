@@ -1,6 +1,6 @@
-<div id="header" align="left">
+<!-- <div id="header" align="left">
   <img src="https://c.tenor.com/Oj__nQJe8gEAAAAd/explaining-meme.gif" width="220"/>
-</div>
+</div> -->
 <div id="badges">
   <a href="https://t.me/goosehoward">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -13,15 +13,15 @@
 
  ---
  
-### :man_technologist: About Me :
-Фронтенд разработчик из Москвы ⭐
+### Frontend Developer, Moscow
 
+<!-- 
 #### Увлечения:
 - ремонт мобильной техники 🧑‍🔧
 - видеоигры 🎮
 - кулинария 👨‍🍳
 - айти и веб 💻
-- loseless sound 🎧
+- loseless sound 🎧 -->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
